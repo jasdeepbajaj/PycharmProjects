@@ -1,0 +1,4 @@
+name,path,Obstacles,turning_radius,continuity_tolerance,angle_tolerance,node_count,edge_count,eucLB_NoObstacles,dubLB_NoObstacles,eucLB,eucLB_time,dubLB,dubLB_time,dubUB,dubUB_time
+Map_i0_o10.pkl,./instances/map1/obs_10/i_1/Map_i0_o10.pkl,10,1,0.1,15,2,1,16.0,17.27956949581917,,0,,,,
+Map_i0_o10.pkl,./instances/map1/obs_10/i_1/Map_i0_o10.pkl,10,2,0.1,15,2,1,16.0,18.944265969213614,,0,,,,
+Map_i0_o10.pkl,./instances/map1/obs_10/i_1/Map_i0_o10.pkl,10,3,0.1,15,2,1,16.0,21.264214093935287,,0,,,,
